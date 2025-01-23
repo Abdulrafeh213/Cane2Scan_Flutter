@@ -1,0 +1,2 @@
+D:/FYP project/cane2scan_flutter/android/app/.cxx/Debug/4s4y6469/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/FYP project/cane2scan_flutter/android/app/.cxx/Debug/4s4y6469/armeabi-v7a/CMakeFiles/rebuild_cache.dir
